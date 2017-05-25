@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{871B5A90-103A-46A5-BBB9-07C02B9851D1}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Windows|x86" />
+  <MonoDevelop.Ide.ItemProperties.MyGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\GameMain.cs">
+    <Files>
+      <File FileName="src\GameMain.cs" Line="34" Column="7" />
+      <File FileName="GameBoard.cs" Line="72" Column="5" />
+      <File FileName="Obstacle.cs" Line="78" Column="35" />
+      <File FileName="src\GameController.cs" Line="93" Column="45" />
+      <File FileName="src\MainMenuController.cs" Line="47" Column="3" />
+      <File FileName="src\SettingController.cs" Line="88" Column="3" />
+      <File FileName="UtilityFunction.cs" Line="28" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

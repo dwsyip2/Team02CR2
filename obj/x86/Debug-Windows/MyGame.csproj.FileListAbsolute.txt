@@ -1,0 +1,199 @@
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\animations\startup.txt
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\bundles\splash.txt
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\fdFile.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\fdFolder.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\sounds\error.wav
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\SwinGame.icns
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\Resources\SwinGame.ico
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\MyGame.exe
+C:\Users\FU\Documents\Projects\SwinGameXamarin\bin\Debug\SwinGame.dll
+C:\Users\FU\Documents\Projects\SwinGameXamarin\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\animations\startup.txt
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\bundles\splash.txt
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\fdFile.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\fdFolder.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\sounds\error.wav
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\SwinGame.icns
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\Resources\SwinGame.ico
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\MyGame.exe
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\SwinGame.dll
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\car.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\fuel.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\lorry.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\motorcycle.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\player.png
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\bg.jpg
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\gameover.jpg
+C:\Users\User\Desktop\OOP\customprogram\Carsho Rusho\bin\Debug\thankyou.jpg
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\animations\startup.txt
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\bundles\splash.txt
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\fdFile.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\fdFolder.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\sounds\error.wav
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\SwinGame.icns
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\Resources\SwinGame.ico
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\car.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\fuel.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\lorry.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\motorcycle.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\player.png
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\bg.jpg
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\gameover.jpg
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\thankyou.jpg
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\MyGame.exe
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\SwinGame.dll
+C:\Users\User\Desktop\COS20007_4331990\custom_program\Carsho Rusho\bin\Debug\nunit.framework.xml
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\animations\startup.txt
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\bundles\splash.txt
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\fdFile.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\fdFolder.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\sounds\error.wav
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\SwinGame.icns
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\Resources\SwinGame.ico
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\car.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\fuel.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\lorry.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\player.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\bg.jpg
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\gameover.jpg
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\thankyou.jpg
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\motorcycle.png
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\MyGame.exe
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\mscorlib.dll
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\nunit.framework.dll
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\SwinGame.dll
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\nunit.framework.xml
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\normidna.nlp
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\normnfc.nlp
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\normnfd.nlp
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\normnfkc.nlp
+C:\Users\sfu\Desktop\Carsho Rusho\bin\Debug\normnfkd.nlp
+C:\Users\sfu\Desktop\Carsho Rusho\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\sfu\Desktop\Carsho Rusho\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\animations\startup.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\bundles\splash.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\fdFile.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\fdFolder.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\sounds\error.wav
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\SwinGame.icns
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\Resources\SwinGame.ico
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\car.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\fuel.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\lorry.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\player.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\bg.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\gameover.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\thankyou.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\motorcycle.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\MyGame.exe
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\SwinGame.dll
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Team02CR\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\animations\startup.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\bundles\splash.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\fdFile.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\fdFolder.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\sounds\error.wav
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\SwinGame.icns
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\Resources\SwinGame.ico
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\car.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\fuel.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\lorry.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\player.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\bg.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\gameover.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\thankyou.jpg
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\motorcycle.png
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\MyGame.exe
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\SwinGame.dll
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\User\Desktop\Sem 7\SWE20001 Software Development Tools & Practices\Assessment\Distinction Project\Sprint 2\Team02CR\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
